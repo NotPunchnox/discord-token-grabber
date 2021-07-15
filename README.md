@@ -5,9 +5,6 @@ installation ( coffeescript ):
 
   modules:
     `npm install`
-    
-![ScreenShot](/screen/Capture2.png)
-replace 'url' with your webhook
 
 compile ( js ):
   `coffee --compile lib main.coffee` and `cd lib`
