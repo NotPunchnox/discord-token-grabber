@@ -1,4 +1,4 @@
-# Discord token grabber
+# Tanka grabber
 
 ( version coffeescript: days to come )
 
