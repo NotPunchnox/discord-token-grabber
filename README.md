@@ -17,6 +17,10 @@ compile ( js -> exe ):
 
 result:
 
-![ScreenShot](/screen/capture.png)
+![ScreenShot](/screen/Capture.png)
+
+
 ![ScreenShot](/screen/capture2.png)
+
+
 ![ScreenShot](/screen/capture3.png)
